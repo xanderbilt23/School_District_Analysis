@@ -12,11 +12,11 @@ How is the district summary affected?
 
 ###District Summary Before
 
-![district_summary_df_before]("C:\Users\ariv9\Washu-Bootcamp\Module_4\School_District_Analysis\Resources\district_summary_df_before.png")
+![district_summary_df_before](https://github.com/xanderbilt23/School_District_Analysis/blob/main/Resources/district_summary_df_before.png) 
 
 ### District Summary After
 
-![district_summary_df_after]
+![district_summary_df_after](https://github.com/xanderbilt23/School_District_Analysis/blob/main/Resources/district_summary_df_after.png)
 
 How is the school summary affected?
 
@@ -24,11 +24,11 @@ How is the school summary affected?
 
 ### School Summary Before
 
-![school_summary_df_before]()
+![school_summary_df_before](https://github.com/xanderbilt23/School_District_Analysis/blob/main/Resources/per_school_summary_df_before.png)
 
 ### School Summary After
 
-![school_summary_df_after]()
+![school_summary_df_after](https://github.com/xanderbilt23/School_District_Analysis/blob/main/Resources/per_school_summary_df_after.png)
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -36,11 +36,11 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
 
 ### Before
 
-![top_schools_before]()
+![top_schools_before](https://github.com/xanderbilt23/School_District_Analysis/blob/main/Resources/top_schools_before.png)
 
 ### After
 
-![top_school_after]()
+![top_school_after](https://github.com/xanderbilt23/School_District_Analysis/blob/main/Resources/top_schools_before.png)
 How does replacing the ninth-grade scores affect the following:
 
 - Math and reading scores by grade are affected by that they display NaN for Thomas High School.
